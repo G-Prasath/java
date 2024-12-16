@@ -3,7 +3,7 @@ import tools.sprint.*;
 
 class Protct extends B {
     public void show() {
-        System.out.println(bMark);
+        // System.out.println(bMark);
     }
 
     private int result = 100;
